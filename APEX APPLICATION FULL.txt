@@ -1,0 +1,25 @@
+1.open login.salesforce.com and login
+2.Open Setup
+3.OPEN Object Manager new custom object
+4.Enter table name in label and plural label add description save&new.
+created objects- Student_B, Books_B Cancel click
+5.Click object manager and click on Books_B then Fields and Relationship
+6.NEW ->select data type text for author name next->field label enter-> 
+Author Name
+7.enter length click required next->field level security->next save and new
+created columns-text>publisher>30>next>next>save
+8.add columns for student table>objectmanager>student_b>
+fieldsandrelationships>new
+9.text>Class>10>next>next>save
+10.forCreate Tabs>Setup>enter in quick find tabs>tabs>new>
+selectobject Books_b>selecttab style>next>next>save
+create next same for student_b using same process
+11.AppCreation>quickfind app>app manager>new lightining app>enter app name
+ASK LIBRARY,description,uploadpicture>NEXT>next>next>navigation items>
+add tabs that you created>select books_b click on side arrow and add
+>same for students_b>contact>dashboard>entitlement>next>available profiles
+>select system administrator click arrow>save&finish
+12.click app launcher square in left side>type app name ASK LIBARARY
+>click on it>Add records>click new>enter data same for all tabs
+
+13.To get back to home click on setup you will be back

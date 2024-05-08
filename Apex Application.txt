@@ -1,0 +1,13 @@
+1. Sign in Salesforce 
+2. Go to the object manager arrow 
+3. Select new project 
+4. Then add information 
+5. Again select new project 
+6. Add information 
+7. In object manager select created project and go to finds and relationship  go to new and add information 
+7. Go to the setup And quick find: tabs 
+8. Click on new then select our created labels and add colour and save 
+9. Go to setup in quick find select app manager 
+10. The type app name And select image after that next , next, and select all labels that we are created then next and select system administrator and save 
+11. Go to setup and click on top most left hand side dots Ani select out app 
+12. The add information in it by clicking new button
